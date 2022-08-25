@@ -27,11 +27,10 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Experience _ _ _ _ _ _ _ _ _ _
                  [ CodeCraft Technologies ]          ||
      Cox Elite Gamer for Cox Communications          ||           Data Analyst
     providing faster ping time for PC games          ||           [ Actify Datalabs Pvt Ltd ]
-          using react, next.js, and node.js       Jun 2019 -----> Created ADAPTify one of the top 10 
+          using react, next.js, and node.js       Jan 2018 -----> Created ADAPTify one of the top 10 
                                                      ||           promising data analytics platforms 
                                                      ||           for clients like Escorts, LnT, Starbucks
 
-                    Jan 2018 -> Director & Technical Head [ Dynamic Execution Pvt. Ltd. ]
                     Dec 2015 -> Sr. Software Developer [ ApnaStudy Technology Pvt. Ltd. ]
                     Sep 2014 -> Associate Developer [ Renaissance Info Web ]
                     Feb 2012 -> Web Developer and Designer [ Xzen Production ]
